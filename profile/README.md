@@ -1,9 +1,11 @@
 # Blossom Theme
 ### Welcome to the Official Github page of Blossom Theme
-![](https://raw.githubusercontent.com/BlossomTheme/Assets/main/banner02.png)
+![](https://raw.githubusercontent.com/BlossomTheme/Assets/main/banner.png)
 
 # Color Palette
 
+
+<!---
 | **Color** | **Preview** | **Hex Code** | 
 | --------- | ----------- | ------------ | 
 | Background | ![](./images/BG.png) | #10111b | 
