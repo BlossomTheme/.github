@@ -1,5 +1,8 @@
 # Blossom Theme
 ### Welcome to the Official Github page of Blossom Theme
+
+> A color theme is inspired by Japan's vibrant urban environment, blending bright neon tones and metallic elements to evoke a modern and energetic visual atmosphere.
+
 ![](https://raw.githubusercontent.com/BlossomTheme/Assets/main/banner.png)
 
 
