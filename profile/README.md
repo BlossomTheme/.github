@@ -9,8 +9,8 @@
 - [Color Palette](https://github.com/BlossomTheme/Palette)
 
 ## Find us on
-[Email](mailto:blossomtheme.official@gmail.com)      
-[Youtube](https://www.youtube.com/@BlossomTheme)
-[Github](https://github.com/BlossomTheme)      
-[LinkedIn](https://www.linkedin.com/company/blossomtheme)
-[Webs](https://blossomtheme.github.io)
+- [Email](mailto:blossomtheme.official@gmail.com)      
+- [Youtube](https://www.youtube.com/@BlossomTheme)
+- [Github](https://github.com/BlossomTheme)      
+- [LinkedIn](https://www.linkedin.com/company/blossomtheme)
+- [Website](https://blossomtheme.github.io)
