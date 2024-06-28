@@ -5,6 +5,12 @@
 
 ![](https://raw.githubusercontent.com/BlossomTheme/Assets/main/banner.png)
 
+## Wanna Contribute?
+Check : [Contributing Guide](https://github.com/BlossomTheme/BlossomTheme/blob/master/Contribute/CONTRIBUTING.md)
+
+## Membership
+Check : [Membership Guide](https://github.com/BlossomTheme/BlossomTheme/blob/master/Membership/MEMBERSHIP.md)
+
 ## Color Palette
 - [Color Palette](https://github.com/BlossomTheme/Palette)
 
