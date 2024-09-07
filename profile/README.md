@@ -1,7 +1,7 @@
 # Welcome to the Official Github page of Blossom Theme
 
 ## What is BlossomTheme?
-- A Sri Lankan open-source initiative curating vibrant color themes with accessibility in mind. Our palettes maintain a color contrast ratio of 5.06:1, ensuring readability without compromising aesthetics. Join us in blooming the world of design with thoughtfully crafted, inclusive color schemes.
+- An open-source initiative based in Sri Lanka for curating vibrant color themes with accessibility in mind. Our palettes maintain a color contrast ratio of 5.06:1, ensuring readability without compromising aesthetics. Join us in blooming the world of design with thoughtfully crafted, inclusive color schemes.
 
 ![](https://raw.githubusercontent.com/BlossomTheme/Assets/main/banner.png)
 
