@@ -1,7 +1,7 @@
-# Blossom Theme
-## Welcome to the Official Github page of Blossom Theme
+# Welcome to the Official Github page of Blossom Theme
 
-###### A color theme inspired by Japan's vibrant urban environment, blending bright neon tones and metallic elements to evoke a modern and energetic visual atmosphere.
+## What is BlossomTheme?
+- A Sri Lankan open-source initiative curating vibrant color themes with accessibility in mind. Our palettes maintain a color contrast ratio of 5.06:1, ensuring readability without compromising aesthetics. Join us in blooming the world of design with thoughtfully crafted, inclusive color schemes.
 
 ![](https://raw.githubusercontent.com/BlossomTheme/Assets/main/banner.png)
 
