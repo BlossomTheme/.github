@@ -12,7 +12,7 @@ Check : [Contributing Guide](https://github.com/BlossomTheme/BlossomTheme/blob/m
 Check : [Membership Guide](https://github.com/BlossomTheme/BlossomTheme/blob/master/Membership/MEMBERSHIP.md)
 
 ## Color Palette
-- [Color Palette](https://github.com/BlossomTheme/Palette)
+- [Color Palette](https://github.com/BlossomTheme/BlossomTheme/tree/master/Palette)
 
 ## Find us on
 - [Email](mailto:blossomtheme.official@gmail.com)      
