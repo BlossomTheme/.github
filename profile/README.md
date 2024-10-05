@@ -1,9 +1,9 @@
 # Welcome to the Official Github page of Blossom Theme
 
+![](https://raw.githubusercontent.com/BlossomTheme/Assets/refs/heads/main/hanako-banners/hanako-banner-welcome-500-resized.png)
+
 ## What is BlossomTheme?
 - An open-source initiative based in Sri Lanka for curating vibrant color themes with accessibility in mind. Our palettes maintain a color contrast ratio of 5.06:1, ensuring readability without compromising aesthetics. Join us in blooming the world of design with thoughtfully crafted, inclusive color schemes.
-
-![](https://raw.githubusercontent.com/BlossomTheme/Assets/main/banner.png)
 
 ## Wanna Contribute?
 Check : [Contributing Guide](https://github.com/BlossomTheme/BlossomTheme/blob/master/Contribute/CONTRIBUTING.md)
